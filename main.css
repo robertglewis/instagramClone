@@ -1,0 +1,21 @@
+body{
+     background:#fff;
+}
+header{
+    background: #FAFAFA;
+    border-bottom: 1px solid #ccc;
+   
+}
+header a{
+    width: 20%;
+    display: inline-block;
+    margin-left: -2px;
+    text-align: center;
+    padding:20px;
+}
+header fa{
+    color:111;
+    font-size: 20px;
+}
+
+
